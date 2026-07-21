@@ -352,6 +352,97 @@
     ["Burgas", 42.51, 27.47],
     ["Stara Zagora", 42.43, 25.64]
   ],
+  "Canada - Alberta": [
+    ["Calgary", 51.05, -114.09],
+    ["Edmonton", 53.55, -113.47],
+    ["Lethbridge", 49.70, -112.82],
+    ["Red Deer", 52.27, -113.80],
+    ["Grande Prairie", 55.17, -118.80]
+  ],
+  "Canada - British Columbia": [
+    ["Vancouver", 49.25, -123.12],
+    ["Victoria", 48.44, -123.35],
+    ["Kelowna", 49.88, -119.49],
+    ["Abbotsford", 49.06, -122.25],
+    ["Kamloops", 50.67, -120.32]
+  ],
+  "Canada - Manitoba": [
+    ["Winnipeg", 49.88, -97.15],
+    ["Brandon", 49.85, -99.95],
+    ["Steinbach", 49.53, -96.68],
+    ["Thompson", 55.74, -97.86],
+    ["Portage la Prairie", 49.97, -98.29]
+  ],
+  "Canada - New Brunswick": [
+    ["Moncton", 46.09, -64.80],
+    ["Saint John", 45.27, -66.06],
+    ["Fredericton", 45.95, -66.67],
+    ["Miramichi", 47.03, -65.50],
+    ["Edmundston", 47.37, -68.33]
+  ],
+  "Canada - Newfoundland and Labrador": [
+    ["St. John's", 47.56, -52.71],
+    ["Corner Brook", 48.95, -57.95],
+    ["Grand Falls-Windsor", 48.93, -55.66],
+    ["Gander", 48.96, -54.62],
+    ["Happy Valley-Goose Bay", 53.30, -60.33]
+  ],
+  "Canada - Northwest Territories": [
+    ["Yellowknife", 62.45, -114.37],
+    ["Hay River", 60.82, -115.80],
+    ["Inuvik", 68.36, -133.73],
+    ["Fort Smith", 60.00, -111.89],
+    ["Behchokǫ̀", 62.80, -116.05]
+  ],
+  "Canada - Nova Scotia": [
+    ["Halifax", 44.64, -63.58],
+    ["Sydney", 46.14, -60.18],
+    ["New Glasgow", 45.58, -62.65],
+    ["Truro", 45.37, -63.27],
+    ["Kentville", 45.08, -64.50]
+  ],
+  "Canada - Nunavut": [
+    ["Iqaluit", 63.75, -68.52],
+    ["Rankin Inlet", 62.81, -92.09],
+    ["Arviat", 61.11, -94.06],
+    ["Baker Lake", 64.32, -96.02],
+    ["Igloolik", 69.38, -81.80]
+  ],
+  "Canada - Ontario": [
+    ["Toronto", 43.71, -79.40],
+    ["Ottawa", 45.41, -75.70],
+    ["Hamilton", 43.25, -79.85],
+    ["London", 42.98, -81.23],
+    ["Kitchener", 43.43, -80.51]
+  ],
+  "Canada - Prince Edward Island": [
+    ["Charlottetown", 46.23, -63.13],
+    ["Summerside", 46.39, -63.79],
+    ["Three Rivers", 46.18, -62.57],
+    ["Alberton", 46.82, -64.07],
+    ["Eastern Kings", 46.43, -62.10]
+  ],
+  "Canada - Quebec": [
+    ["Montréal", 45.51, -73.59],
+    ["Québec", 46.81, -71.21],
+    ["Gatineau", 45.48, -75.70],
+    ["Saguenay", 48.42, -71.07],
+    ["Trois-Rivières", 46.35, -72.55]
+  ],
+  "Canada - Saskatchewan": [
+    ["Saskatoon", 52.13, -106.67],
+    ["Regina", 50.45, -104.62],
+    ["Prince Albert", 53.20, -105.77],
+    ["Moose Jaw", 50.40, -105.53],
+    ["North Battleford", 52.78, -108.30]
+  ],
+  "Canada - Yukon": [
+    ["Whitehorse", 60.72, -135.05],
+    ["Watson Lake", 60.06, -128.71],
+    ["Dawson City", 64.06, -139.43],
+    ["Haines Junction", 60.75, -137.51],
+    ["Carmacks", 62.09, -136.29]
+  ],
   "Croatia": [
     ["Zagreb", 45.81, 15.98],
     ["Split", 43.51, 16.44],
@@ -486,6 +577,221 @@
   ],
   "Malta": [
     ["San Pawl il-Ba\u0127ar", 35.95, 14.42]
+  ],
+  "Mexico - Aguascalientes": [
+    ["Aguascalientes", 21.88, -102.28],
+    ["Calvillo", 21.85, -102.72],
+    ["Cosío", 22.37, -102.30],
+    ["Las Negritas", 21.99, -101.88]
+  ],
+  "Mexico - Baja California": [
+    ["Tijuana", 32.50, -117.00],
+    ["Mexicali", 32.63, -115.45],
+    ["Ensenada", 31.87, -116.60],
+    ["Ciudad Guadalupe Victoria", 32.29, -115.10],
+    ["San Felipe", 31.03, -114.84]
+  ],
+  "Mexico - Baja California Sur": [
+    ["La Paz", 24.14, -110.31],
+    ["Cabo San Lucas", 22.89, -109.91],
+    ["Ciudad Constitución", 25.03, -111.66],
+    ["Loreto", 26.01, -111.35],
+    ["Guerrero Negro", 27.96, -114.06]
+  ],
+  "Mexico - Campeche": [
+    ["Campeche", 19.84, -90.52],
+    ["Ciudad del Carmen", 18.65, -91.83],
+    ["Champotón", 19.34, -90.72],
+    ["Escárcega", 18.61, -90.75],
+    ["Calkiní", 20.37, -90.05]
+  ],
+  "Mexico - CDMX": [
+    ["Mexico City", 19.43, -99.13]
+  ],
+  "Mexico - Chiapas": [
+    ["Tuxtla", 16.75, -93.12],
+    ["Tapachula", 14.91, -92.26],
+    ["San Cristóbal de las Casas", 16.73, -92.64],
+    ["Comitán", 16.24, -92.14],
+    ["Pijijiapan", 15.69, -93.21]
+  ],
+  "Mexico - Chihuahua": [
+    ["Ciudad Juárez", 31.72, -106.46],
+    ["Chihuahua", 28.64, -106.09],
+    ["Cuauhtémoc", 28.41, -106.87],
+    ["Ciudad Delicias", 28.19, -105.47],
+    ["Hidalgo del Parral", 26.93, -105.67]
+  ],
+  "Mexico - Coahuila": [
+    ["Torreón", 25.54, -103.42],
+    ["Saltillo", 25.43, -100.98],
+    ["Ciudad Acuña", 29.32, -100.95],
+    ["Monclova", 26.91, -101.42],
+    ["Piedras Negras", 28.70, -100.52]
+  ],
+  "Mexico - Colima": [
+    ["Manzanillo", 19.12, -104.34],
+    ["Colima", 19.24, -103.71],
+    ["Ciudad de Armería", 18.94, -103.96]
+  ],
+  "Mexico - Durango": [
+    ["Victoria de Durango", 24.02, -104.66],
+    ["Gómez Palacio", 25.57, -103.50],
+    ["Santiago Papasquiaro", 25.04, -105.42],
+    ["El Salto", 23.78, -105.36],
+    ["Pueblo Nuevo", 23.38, -105.37]
+  ],
+  "Mexico - Guanajuato": [
+    ["León de los Aldama", 21.12, -101.68],
+    ["Irapuato", 20.67, -101.36],
+    ["Celaya", 20.52, -100.81],
+    ["San Miguel de Allende", 20.92, -100.74],
+    ["Acámbaro", 20.03, -100.72]
+  ],
+  "Mexico - Guerrero": [
+    ["Acapulco de Juárez", 16.85, -99.91],
+    ["Chilpancingo", 17.55, -99.50],
+    ["Iguala de la Independencia", 18.35, -99.54],
+    ["Ixtapa-Zihuatanejo", 17.64, -101.55],
+    ["Tlapa de Comonfort", 17.55, -98.58]
+  ],
+  "Mexico - Hidalgo": [
+    ["Pachuca de Soto", 20.12, -98.73],
+    ["Tepeji del Río de Ocampo", 19.90, -99.34],
+    ["Huejutla de Reyes", 21.14, -98.42],
+    ["Ixmiquilpan", 20.48, -99.22],
+    ["Ciudad Sahagun", 19.78, -98.57]
+  ],
+  "Mexico - Jalisco": [
+    ["Zapopan", 20.72, -103.39],
+    ["Puerto Vallarta", 20.62, -105.23],
+    ["Ciudad Guzmán", 19.70, -103.46],
+    ["Lagos de Moreno", 21.36, -101.93],
+    ["Tepatitlán de Morelos", 20.82, -102.76]
+  ],
+  "Mexico - Estado de México": [
+    ["Ecatepec de Morelos", 19.60, -99.06],
+    ["Toluca", 19.29, -99.65],
+    ["Chalco", 19.26, -98.90],
+    ["Tejupilco de Hidalgo", 18.90, -100.15],
+    ["Atlacomulco de Fabela", 19.80, -99.88]
+  ],
+  "Mexico - Michoacán": [
+    ["Morelia", 19.70, -101.18],
+    ["Uruapan", 19.42, -102.06],
+    ["Ciudad Lázaro Cárdenas", 17.96, -102.20],
+    ["Zamora de Hidalgo", 19.98, -102.29],
+    ["Apatzingán", 19.09, -102.36]
+  ],
+  "Mexico - Morelos": [
+    ["Cuernavaca", 18.93, -99.23],
+    ["Axochiapan", 18.50, -98.75],
+    ["Tetela del Volcán", 18.89, -98.73],
+    ["Tehuixtla", 18.56, -99.27],
+    ["San Diego Linares", 19.39, -99.64]
+  ],
+  "Mexico - Nayarit": [
+    ["Tepic", 21.51, -104.89],
+    ["Ixtlán del Río", 21.04, -104.37],
+    ["San José del Valle", 20.76, -105.23],
+    ["Tuxpan", 21.94, -105.30],
+    ["Acaponeta", 22.49, -105.36]
+  ],
+  "Mexico - Nuevo León": [
+    ["Monterrey", 25.68, -100.32],
+    ["Linares", 24.86, -99.57],
+    ["Montemorelos", 25.19, -99.83],
+    ["Ciudad Sabinas Hidalgo", 26.50, -100.18],
+    ["Anáhuac", 27.24, -100.13]
+  ],
+  "Mexico - Oaxaca": [
+    ["Oaxaca", 17.06, -96.73],
+    ["Tuxtepec", 18.09, -96.13],
+    ["Heroica Ciudad de Juchitán de Zaragoza", 16.43, -95.02],
+    ["Ciudad de Huajuapan de León", 17.81, -97.78],
+    ["Puerto Escondido", 15.86, -97.07]
+  ],
+  "Mexico - Puebla": [
+    ["Puebla", 19.05, -98.21],
+    ["Tehuacán", 18.46, -97.40],
+    ["Teziutlan", 19.82, -97.36],
+    ["Huauchinango", 20.17, -98.05],
+    ["Izúcar de Matamoros", 18.60, -98.46]
+  ],
+  "Mexico - Querétaro": [
+    ["Santiago de Querétaro", 20.59, -100.39],
+    ["San Juan del Río", 20.39, -100.00],
+    ["Jalpan de Serra", 21.22, -99.47],
+    ["Colón", 20.78, -100.05],
+    ["Bella Vista del Río", 20.69, -99.57]
+  ],
+  "Mexico - Quintana Roo": [
+    ["Cancún", 21.17, -86.85],
+    ["Chetumal", 18.52, -88.30],
+    ["Playa del Carmen", 20.63, -87.08],
+    ["Felipe Carrillo Puerto", 19.58, -88.05],
+    ["Tulum", 20.21, -87.46]
+  ],
+  "Mexico - San Luis Potosí": [
+    ["San Luis Potosí", 22.15, -100.97],
+    ["Ciudad Valles", 22.00, -99.01],
+    ["Matehuala", 23.65, -100.64],
+    ["Rioverde", 21.93, -99.99],
+    ["Tamazunchale", 21.26, -98.79]
+  ],
+  "Mexico - Sinaloa": [
+    ["Culiacán", 24.80, -107.39],
+    ["Mazatlán", 23.22, -106.42],
+    ["Los Mochis", 25.79, -109.00],
+    ["Guamúchil", 25.46, -108.08],
+    ["Guasave", 25.57, -108.47]
+  ],
+  "Mexico - Sonora": [
+    ["Hermosillo", 29.09, -110.97],
+    ["Ciudad Obregón", 27.49, -109.94],
+    ["Nogales", 31.31, -110.94],
+    ["San Luis Río Colorado", 32.46, -114.77],
+    ["Heroica Guaymas", 27.92, -110.90]
+  ],
+  "Mexico - Tabasco": [
+    ["Villahermosa", 17.99, -92.94],
+    ["Cárdenas", 18.00, -93.38],
+    ["Paraiso", 18.40, -93.21],
+    ["Tenosique", 17.47, -91.42],
+    ["Macuspana", 17.76, -92.60]
+  ],
+  "Mexico - Tamaulipas": [
+    ["Reynosa", 26.08, -98.28],
+    ["Heroica Matamoros", 25.88, -97.50],
+    ["Nuevo Laredo", 27.48, -99.52],
+    ["Ciudad Victoria", 23.74, -99.14],
+    ["Tampico", 22.29, -97.88]
+  ],
+  "Mexico - Tlaxcala": [
+    ["Tlaxcala", 19.32, -98.24],
+    ["Calpulalpan", 19.59, -98.57],
+    ["Villa de El Carmen Tequexquitla", 19.32, -97.65]
+  ],
+  "Mexico - Veracruz": [
+    ["Veracruz", 19.18, -96.14],
+    ["Xalapa de Enríquez", 19.53, -96.92],
+    ["Coatzacoalcos", 18.15, -94.44],
+    ["Córdoba", 18.88, -96.93],
+    ["Poza Rica de Hidalgo", 20.53, -97.46]
+  ],
+  "Mexico - Yucatán": [
+    ["Mérida", 20.97, -89.62],
+    ["Valladolid", 20.69, -88.20],
+    ["Tizimín", 21.14, -88.15],
+    ["Ticul", 20.40, -89.53],
+    ["Peto", 20.13, -88.92]
+  ],
+  "Mexico - Zacatecas": [
+    ["Guadalupe", 22.75, -102.52],
+    ["Fresnillo", 23.17, -102.87],
+    ["Jerez de García Salinas", 22.65, -102.99],
+    ["Río Grande", 23.83, -103.03],
+    ["Loreto", 22.27, -101.99]
   ],
   "Monaco": [
     ["Monaco", 43.74, 7.42]
