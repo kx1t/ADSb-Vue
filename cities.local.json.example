@@ -534,11 +534,29 @@
     ["Reykjanesb\u00e6r", 64.00, -22.56],
     ["Akureyri", 65.68, -18.09]
   ],
-  "Ireland": [
+  "Jersey": [
+    ["Saint Helier", 49.19, -2.11]
+  ],
+  "England": [
+    ["London", 51.51, -0.13],
+    ["Birmingham", 52.48, -1.90],
+    ["Manchester", 53.48, -2.24],
+    ["Sheffield", 53.38, -1.47],
+    ["Leeds", 53.80, -1.55]
+  ],
+  "Northern Ireland": [
+    ["Belfast", 54.60, -5.93],
+    ["Derry", 54.99, -7.32],
+    ["Lisburn", 54.52, -6.04],
+    ["Newry", 54.18, -6.34],
+    ["Craigavon", 54.45, -6.38]
+  ],
+  "Republic of Ireland": [
     ["Dublin", 53.33, -6.25],
     ["Cork", 51.90, -8.47],
     ["Limerick", 52.66, -8.62],
-    ["Galway", 53.27, -9.05]
+    ["Galway", 53.27, -9.05],
+    ["Waterford", 52.26, -7.11]
   ],
   "Italy": [
     ["Rome", 41.89, 12.51],
@@ -887,12 +905,19 @@
     ["Lausanne", 46.52, 6.63],
     ["Bern", 46.95, 7.45]
   ],
-  "United Kingdom": [
-    ["London", 51.51, -0.13],
-    ["Birmingham", 52.48, -1.90],
+  "Scotland": [
     ["Glasgow", 55.87, -4.26],
-    ["Manchester", 53.48, -2.24],
-    ["Sheffield", 53.38, -1.47]
+    ["Edinburgh", 55.95, -3.19],
+    ["Aberdeen", 57.15, -2.10],
+    ["Dundee", 56.46, -2.97],
+    ["Inverness", 57.48, -4.22]
+  ],
+  "Wales": [
+    ["Cardiff", 51.48, -3.18],
+    ["Swansea", 51.62, -3.95],
+    ["Newport", 51.58, -2.99],
+    ["Wrexham", 53.05, -3.00],
+    ["Barry", 51.41, -3.27]
   ],
   "Vatican City": [
     ["Vatican City", 41.90, 12.45]
